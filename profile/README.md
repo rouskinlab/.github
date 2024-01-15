@@ -14,3 +14,10 @@ This repo is a Python wrapper around HuggingFace API to pull/push data from the 
 
 [RNAstructure](https://github.com/rouskinlab/RNAstructure)
 This repo is a Python wrapper around Prof. Matthew's RNAstructure software. 
+
+[SEISMIC-RNA](https://github.com/rouskinlab/seismic-rna)
+A tool for DMSMaP-seq processing
+
+[SEISMOGRAPH](https://github.com/rouskinlab/seismic-graph)
+A tool for DMSMap-seq visualization
+
