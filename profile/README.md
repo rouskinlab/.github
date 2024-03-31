@@ -23,7 +23,7 @@ Our RNA structure prediction tool. Pre-print here: [link](https://www.biorxiv.or
 The whole data processing pipeline from the source to the model. Uses RouskinHF to push and pull to HuggingFace.
 
 [eFold figures](https://github.com/rouskinlab/efold_figures):
-The code for the figures from the [eFold paper]((https://www.biorxiv.org/content/10.1101/2024.01.24.577093v3.full.pdf+html).
+The code for the figures from the [eFold paper](https://www.biorxiv.org/content/10.1101/2024.01.24.577093v3.full.pdf+html).
 
 [RouskinHF](https://github.com/rouskinlab/rouskinhf):
 This repo is a Python wrapper around HuggingFace API to pull/push data from the RouskinLab HF organization. 
