@@ -19,7 +19,7 @@ A tool for SEISMIC-RNA visualization
 [eFold](https://github.com/rouskinlab/efold):
 Our RNA structure prediction tool. Pre-print here: [link](https://www.biorxiv.org/content/10.1101/2024.01.24.577093v3.full.pdf+html).
 
-[eFold_data](https://github.com/rouskinlab/efold_data):
+[eFold data](https://github.com/rouskinlab/efold_data):
 The whole data processing pipeline from the source to the model. Uses RouskinHF to push and pull to HuggingFace.
 
 [eFold figures](https://github.com/rouskinlab/efold_figures):
